@@ -1,1 +1,1 @@
-echo"Nadorozhnyi Sviatoslav"
+echo "Nadorozhnyi Sviatoslav"
